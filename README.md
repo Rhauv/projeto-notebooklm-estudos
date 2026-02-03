@@ -2,10 +2,10 @@
 Projeto prático utilizando o NotebookLM para sintetizar e personalizar métodos de estudo baseados em neurociência, desenvolvido para o curso de IA Generativa da DIO.
 # A Ciência do Estudo Personalizado: Relatório de Aprendizagem
 
-## Objetivo
+## 1. Objetivo
 O objetivo deste projeto é explorar como a neurociência e a psicologia comportamental podem ser aplicadas para otimizar a retenção de informações e a gestão do tempo, combatendo as limitações biológicas do cérebro.
 
-## Fundamentos Teóricos
+## 2. Fundamentos Teóricos
 
 ### Carga Cognitiva e Memória de Trabalho
 O cérebro possui uma memória de trabalho limitada. A Teoria da Carga Cognitiva divide o esforço mental em três tipos:
@@ -20,7 +20,7 @@ Técnica que consiste em usar um hábito automático como "âncora" para um novo
 ### O Antídoto: Active Recall vs. Curva do Esquecimento
 A Curva do Esquecimento mostra que perdemos até 50% do conteúdo em 24 horas. O **Active Recall** (Recuperação Ativa) força o cérebro a recuperar a informação, fortalecendo as conexões neurais.
 
-## Diagnóstico de Estudo
+## 3. Diagnóstico de Estudo
 
 | Perfil do Aluno | Método Recomendado | Justificativa Científica |
 | :--- | :--- | :--- |
@@ -28,7 +28,7 @@ A Curva do Esquecimento mostra que perdemos até 50% do conteúdo em 24 horas. O
 | Decora, mas esquece | **Active Recall** | Combate a Curva do Esquecimento via recuperação ativa. |
 | Não entende o complexo | **Técnica Feynman** | Reduz a carga intrínseca através da simplificação. |
 
-## O Impacto da Dopamina Digital
+## 4. O Impacto da Dopamina Digital
 O vício em recompensas imediatas de redes sociais aumenta a carga cognitiva extrínseca, dificultando o foco profundo e a formação de memórias duradouras.
 
 ---
